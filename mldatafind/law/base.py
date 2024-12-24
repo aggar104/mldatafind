@@ -10,7 +10,7 @@ root = Path(__file__).resolve().parent.parent.parent
 
 DATAFIND_ENV_VARS = [
     "KRB5_KTNAME",
-    "X509_USER_PROXY",
+    "SCITOKEN_FILE",
     "GWDATAFIND_SERVER",
     "NDSSERVER",
     "LIGO_USERNAME",
